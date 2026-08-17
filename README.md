@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/aryansahu03/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/aryansahu03/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aryansahu03/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -30,6 +31,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -51,4 +53,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
