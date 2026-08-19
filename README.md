@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/aryansahu03/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aryansahu03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
@@ -32,10 +33,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
 |  |
