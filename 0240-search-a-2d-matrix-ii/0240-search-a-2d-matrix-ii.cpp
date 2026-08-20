@@ -10,6 +10,11 @@ public:
             else if(matrix[i][j] > target) j--;
             else i++; 
         }
+        // for(int i=0 ; i<rows ;i++){
+        //     for(int j=0 ; j< cols ; j++){
+        //         if(matrix[i][j]==target) return true;
+        //     }
+        // }
         return false;
     }
 };
