@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/aryansahu03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryansahu03/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/aryansahu03/Leetcode/tree/master/0118-pascals-triangle) |
 ## Stack
 |  |
 | ------- |
