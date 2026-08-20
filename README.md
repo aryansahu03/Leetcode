@@ -13,6 +13,7 @@
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aryansahu03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryansahu03/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
