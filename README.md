@@ -15,6 +15,7 @@
 | [0119-pascals-triangle-ii](https://github.com/aryansahu03/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
+| [0896-monotonic-array](https://github.com/aryansahu03/Leetcode/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
