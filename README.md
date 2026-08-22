@@ -54,6 +54,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansahu03/Leetcode/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/aryansahu03/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -78,4 +79,8 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/aryansahu03/Leetcode/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
