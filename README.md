@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansahu03/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/aryansahu03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/aryansahu03/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aryansahu03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryansahu03/Leetcode/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/aryansahu03/Leetcode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/aryansahu03/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aryansahu03/Leetcode/tree/master/0205-isomorphic-strings) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aryansahu03/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
