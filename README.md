@@ -79,6 +79,7 @@
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryansahu03/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryansahu03/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2427-number-of-common-factors](https://github.com/aryansahu03/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,4 +98,20 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryansahu03/Leetcode/tree/master/0011-container-with-most-water) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryansahu03/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aryansahu03/Leetcode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aryansahu03/Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aryansahu03/Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/aryansahu03/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
