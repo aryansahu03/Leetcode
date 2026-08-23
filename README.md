@@ -77,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/aryansahu03/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryansahu03/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryansahu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
