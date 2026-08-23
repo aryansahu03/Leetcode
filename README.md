@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/aryansahu03/Leetcode/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
 | [0896-monotonic-array](https://github.com/aryansahu03/Leetcode/tree/master/0896-monotonic-array) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryansahu03/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/aryansahu03/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryansahu03/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
 |  |
