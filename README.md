@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryansahu03/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Quicksort
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aryansahu03/Leetcode/tree/master/0048-rotate-image) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryansahu03/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,4 +93,5 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aryansahu03/Leetcode/tree/master/0011-container-with-most-water) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryansahu03/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
