@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/aryansahu03/Leetcode/tree/master/0205-isomorphic-strings) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/aryansahu03/Leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Greedy
 |  |
 | ------- |
