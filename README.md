@@ -14,6 +14,7 @@
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aryansahu03/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/aryansahu03/Leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/aryansahu03/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aryansahu03/Leetcode/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/aryansahu03/Leetcode/tree/master/0867-transpose-matrix) |
@@ -60,11 +61,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansahu03/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aryansahu03/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/aryansahu03/Leetcode/tree/master/0205-isomorphic-strings) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/aryansahu03/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aryansahu03/Leetcode/tree/master/0169-majority-element) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/aryansahu03/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Quicksort
 |  |
@@ -90,6 +93,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aryansahu03/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansahu03/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## String
 |  |
@@ -120,4 +124,12 @@
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aryansahu03/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/aryansahu03/Leetcode/tree/master/2427-number-of-common-factors) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryansahu03/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aryansahu03/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
